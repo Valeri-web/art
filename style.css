@@ -346,7 +346,7 @@ order: 1;
     flex-direction: column;
     padding: 0px 20px;
     justify-content: space-between;
-/*     height: 59%; */
+
 }
 .contacts-input, select{
     padding: 10px 20px;
