@@ -309,7 +309,7 @@ order: 1;
 .contacts{
     background-color: antiquewhite;
 }
-.contact-inner{
+.contacts-inner{
     display: flex;
     height: 100vh;
 }
